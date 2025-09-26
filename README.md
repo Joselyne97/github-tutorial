@@ -1,14 +1,14 @@
-## github-tutorial
-Hello! This is the testing repo for 599 where students will submit their test branch 🚀
+# **Joselyne's 599  project description**
 
-Now that you're here...
-Please follow the steps below: 
 
-1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.) 
-2. Create a new Branch called "LASTNAME_FIRSTNAME_branch"
-3. Publish your new Branch and Fork repo - say "yes I want to make this a fork" since you won't have write access to the repo
-5. Edit the README.md file and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? add in your contact info?)
-6. Commit changes
-7. Push Changes to remote origin
-8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
+
+Hello! My name is Joselyne MPAYIMANA and I am a master of geomatics for environmental management student at UBC.
+
+My research topic is “Understanding Canada's Southern Gulf Islands: From the Ocean to the Trees”
+
+This project will able us to understand past and current characteristics and attributes while making predictions about the future using two small southern Gulf Islands (Mudge and Link) located in between Vancouver Island and Gabriola Island as a testing ground; this project aims to take stock of all readily available geospatial data to understand the past; characterize and the present; and inform future possibilities. The project will bring together disparate geospatial datasets from different points of time and a range of sources,  the endeavour will be a multi-faceted challenge involving a wide range of data sources, types, and processing requirements. The end goal is a suite of interactive (i.e., web-based maps) which provide key characteristics reflecting past and present land-cover and land-use, which in turn provide insights into potential future land-cover and land-use.
+
+
+
+Thank you!
 
